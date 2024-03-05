@@ -34,7 +34,7 @@
     max-width: 400px; 
     }
   /* Animation for top circle */
-  #top-circle{
+  #w_letter{
     animation: color-shift-top 7s infinite;
 }
 
